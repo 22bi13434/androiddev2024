@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Bùi Quang Trung
+* Name: BuiQuangTrung
 * ID: 22BI13434
 * Group ID: 5
 * Project Name: Not Assigned Yet
